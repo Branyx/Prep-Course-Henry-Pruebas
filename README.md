@@ -1,2 +1,1 @@
-# Prep-Course-Henry-Pruebas
-Estoy probando que tal los commits.
+Esta es una prueba de como crear y clonar repositorios y hacer commits con ellos.
